@@ -1,0 +1,1 @@
+# EO-Data-Fusion-and-Satellite-Embeddings-for-Soil-Organic-Carbon-Estimation-in-Mainland-Portugal
