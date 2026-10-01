@@ -27,5 +27,5 @@ GSE offered a modest improvement over conventional EO covariates. The resulting 
 
 ## Research Article
 Read the full paper using below DOI
-
+https://doi.org/10.1111/sum.70310
 
